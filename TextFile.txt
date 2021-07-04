@@ -1,1 +1,2 @@
 Git is the most commonly used version control system.
+Git also makes collaboration easier.
