@@ -3,3 +3,4 @@ Git tracks the changes you make to files.
 allows changes by multiple people to all be merged into one source.
 Git is software that runs locally.
 Your files and their history are stored on your computer.
+You can also use online hosts.
